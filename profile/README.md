@@ -11,5 +11,5 @@ Slinky is made by [SchedMD](https://schedmd.com/), the lead developers of
 Slurm.
 
 <picture>
-  <img alt="Kubernetes plus Slurm equals Slinky" src="sum.png">
+  <img alt="Kubernetes plus Slurm equals Slinky" src="slinky-equation.jpg">
 </picture>
